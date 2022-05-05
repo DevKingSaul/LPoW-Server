@@ -1,0 +1,17 @@
+{
+  "name": "lpow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blakejs": "^1.1.1",
+    "mongodb": "^4.3.1",
+    "ws": "^8.4.2"
+  }
+}
